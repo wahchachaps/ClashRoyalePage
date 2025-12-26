@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+
+    background-image: url("https://www.baltana.com/files/wallpapers-2/Clash-Royale-08597.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.main-header {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/016/005/896/non_2x/cartoon-wooden-texture-background-wood-cutting-board-texture-design-brown-wooden-wall-plank-table-or-floor-surface-wooden-cutting-chopping-board-illustration-vector.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    padding: 10px 0;
+    text-align: center;
+}
+
+.main-header img {
+    height: 100px;
+}
